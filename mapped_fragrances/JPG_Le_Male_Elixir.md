@@ -1,23 +1,23 @@
-# Carlisle
+# JPG Le Male Elixir
 
-**Company:** Parfum de Marly
+**Company:** Jean Paul Gaultier
 
 ## Notes
 
 ### Top Notes
+- #mint
+- #grapefruit
 - #bergamot
-- #apple
-- #nutmeg
 
 ### Heart Notes
-- #oud
-- #jasmine
-- #gaiac_wood
+- #lavender
+- #cinnamon
+- #caraway
 
 ### Base Notes
 - #vanilla
-- #patchouli
-- #musk
+- #amber
+- #cedarwood
 
 ## Parth's Review
 

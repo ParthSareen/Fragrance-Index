@@ -5,20 +5,21 @@
 ## Notes
 
 ### Top Notes
-- #Cinnamon
-- #Bergamot
-- #Pear
+- #bergamot
+- #cinnamon
+- #cognac
 
 ### Heart Notes
-- #Oak
-- #Pralines
-- #Immortelle
+- #oak
+- #honey
+- #maple
+- #praline
 
 ### Base Notes
-- #Vanilla
-- #Amber
-- #Cedarwood
-- #Tonka_Bean
+- #vanilla
+- #sandalwood
+- #cedarwood
+- #amber
 
 ## Parth's Review
 

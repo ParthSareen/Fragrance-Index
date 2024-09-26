@@ -5,16 +5,18 @@
 ## Notes
 
 ### Top Notes
-- #Pear
-- #Ambroxan
+- #pear
+- #ambroxan
 
 ### Heart Notes
-- #Jasmine
-- #Musk
+- #musk
+- #jasmine
+- #amber
 
 ### Base Notes
-- #Amber
-- #Woodsy_notes
+- #sandalwood
+- #iso_e_super
+- #musk
 
 ## Parth's Review
 

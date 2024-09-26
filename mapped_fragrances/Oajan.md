@@ -5,19 +5,19 @@
 ## Notes
 
 ### Top Notes
-- #Cinnamon
-- #Bergamot
-- #Honey
+- #cinnamon
+- #honey
+- #bergamot
 
 ### Heart Notes
-- #Oud
-- #Resin
-- #Sandalwood
+- #olibanum
+- #rose
+- #vanilla
 
 ### Base Notes
-- #Vanilla
-- #Amber
-- #Labdanum
+- #amber
+- #gaiac_wood
+- #labdanum
 
 ## Parth's Review
 

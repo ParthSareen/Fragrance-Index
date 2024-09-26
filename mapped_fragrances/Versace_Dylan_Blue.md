@@ -5,23 +5,20 @@
 ## Notes
 
 ### Top Notes
-- #Bergamot
-- #Grapefruit
-- #Fig_Leaves
+- #calabrian_bergamot
+- #grapefruit
+- #fig_leaf
 
 ### Heart Notes
-- #Black_Pepper
-- #Violet_Leaf
-- #Papyrus
-- #Pomegranate
-- #Ambroxan
+- #violet_leaf
+- #black_pepper
+- #ambroxan
 
 ### Base Notes
-- #Musk
-- #Tonka_Bean
-- #Saffron
-- #Incense
-- #Mineral_Notes
+- #papyrus
+- #mineral_notes
+- #musk
+- #incense
 
 ## Parth's Review
 

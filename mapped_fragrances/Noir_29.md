@@ -5,19 +5,22 @@
 ## Notes
 
 ### Top Notes
-- #Bergamot
-- #Fig
-- #Bay_Leaf
+- #bergamot
+- #bay_leaves
+- #fig
+- #tobacco
 
 ### Heart Notes
-- #Sandalwood
-- #Cedar
-- #Vetiver
+- #sandalwood
+- #cedarwood
+- #violet
+- #leathery_notes
 
 ### Base Notes
-- #Tobacco
-- #Benzoin
-- #Musk
+- #musk
+- #amber
+- #patchouli
+- #oakmoss
 
 ## Parth's Review
 

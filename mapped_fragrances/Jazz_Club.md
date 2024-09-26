@@ -5,22 +5,21 @@
 ## Notes
 
 ### Top Notes
-- #Pink_Pepper
-- #Bergamot
-- #Lemon
+- #pink_pepper
+- #bergamot
+- #lemon
 
 ### Heart Notes
-- #Rum
-- #Cigarette_Smoke
-- #Vanilla
-- #Clary_Sage
-- #Jasmine
+- #rum
+- #cigare
+- #vanilla
+- #jasmine
 
 ### Base Notes
-- #Tonka_Bean
-- #Amber
-- #Patchouli
-- #Leather
+- #tonka_bean
+- #benzoin
+- #guaiac_wood
+- #amber
 
 ## Parth's Review
 

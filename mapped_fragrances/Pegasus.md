@@ -5,20 +5,20 @@
 ## Notes
 
 ### Top Notes
-- #Bergamot
-- #Cumin
-- #Mandarin_Orange
+- #bergamot
+- #almond
+- #cardamom
 
 ### Heart Notes
-- #Jasmine
-- #Rose
-- #Spicy_Notes
+- #hedione
+- #jasmine
+- #lavender
 
 ### Base Notes
-- #Amber
-- #Vanilla
-- #Benzoin
-- #Woodsy_Notes
+- #vanilla
+- #amber
+- #sandalwood
+- #woodsy_notes
 
 ## Parth's Review
 

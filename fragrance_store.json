@@ -3,20 +3,21 @@
     "name": "Versace Pour Homme",
     "top_notes": [
       "Bergamot",
-      "Neroli",
+      "Orange",
       "Lemon",
-      "Rosemary"
+      "Neroli"
     ],
     "heart_notes": [
       "Jasmine",
+      "Rose",
       "Cedar",
-      "Geranium"
+      "Clary Sage"
     ],
     "base_notes": [
-      "Tonka Bean",
       "Amber",
       "Musk",
-      "Oakmoss"
+      "Patchouli",
+      "Tonka Bean"
     ],
     "company": "Versace"
   },
@@ -28,16 +29,14 @@
       "Lavender"
     ],
     "heart_notes": [
-      "Geranium",
       "Jasmine",
+      "Geranium",
       "Violet"
     ],
     "base_notes": [
       "Vanilla",
-      "Cedarwood",
-      "Cardamom",
-      "Pepper",
-      "Patchouli"
+      "Sandalwood",
+      "Amber"
     ],
     "company": "Parfum de Marly"
   },
@@ -45,21 +44,22 @@
     "name": "Percival",
     "top_notes": [
       "Bergamot",
-      " Mandarin",
-      " Lemon",
-      " Grapefruit"
+      "Grapefruit",
+      "Lemon",
+      "Mandarin",
+      "Cardamom"
     ],
     "heart_notes": [
       "Jasmine",
-      " Water Notes",
-      " Violet",
-      " Nutmeg"
+      "Rose",
+      "Coriander",
+      "Geranium"
     ],
     "base_notes": [
-      "Ambergris",
-      " Musk",
-      " Woody Notes",
-      " Patchouli"
+      "Amber",
+      "Musk",
+      "Patchouli",
+      "Woodsy Notes"
     ],
     "company": "Parfum de Marly"
   },
@@ -67,18 +67,18 @@
     "name": "Versace Eros",
     "top_notes": [
       "Mint",
-      "Green Apple",
-      "Lemon"
+      "Lemon",
+      "Apple"
     ],
     "heart_notes": [
       "Tonka Bean",
-      "Ambroxan",
-      "Geranium"
+      "Geranium",
+      "Amber"
     ],
     "base_notes": [
-      "Vanilla",
       "Cedarwood",
-      "Oakmoss"
+      "Oakmoss",
+      "Vanilla"
     ],
     "company": "Versace"
   },
@@ -89,33 +89,33 @@
       "Ambroxan"
     ],
     "heart_notes": [
+      "Musk",
       "Jasmine",
-      "Musk"
+      "Amber"
     ],
     "base_notes": [
-      "Amber",
-      "Woodsy notes"
+      "Sandalwood",
+      "Iso E Super",
+      "Musk"
     ],
     "company": "Le Labo"
   },
-  "le_male_elixir": {
-    "name": "Le Male Elixir",
+  "jpg_le_male_elixir": {
+    "name": "JPG Le Male Elixir",
     "top_notes": [
-      "Bergamot",
+      "Mint",
       "Grapefruit",
-      "Lemon"
+      "Bergamot"
     ],
     "heart_notes": [
       "Lavender",
-      "Cardamom",
-      "Neroli",
-      "Cormorant"
+      "Cinnamon",
+      "Caraway"
     ],
     "base_notes": [
       "Vanilla",
-      "Cedarwood",
       "Amber",
-      "Tonka Bean"
+      "Cedarwood"
     ],
     "company": "Jean Paul Gaultier"
   },
@@ -128,16 +128,15 @@
     ],
     "heart_notes": [
       "Rum",
-      "Cigarette Smoke",
+      "Cigare",
       "Vanilla",
-      "Clary Sage",
       "Jasmine"
     ],
     "base_notes": [
       "Tonka Bean",
-      "Amber",
-      "Patchouli",
-      "Leather"
+      "Benzoin",
+      "Guaiac Wood",
+      "Amber"
     ],
     "company": "Maison Margiela"
   },
@@ -145,18 +144,20 @@
     "name": "Prada Luna Rossa Ocean",
     "top_notes": [
       "Bergamot",
-      "Pink Pepper",
-      "Bitter Orange"
+      "Grapefruit",
+      "Orange",
+      "Mandarin"
     ],
     "heart_notes": [
       "Lavender",
-      "Cypress",
-      "Basil"
+      "Sage",
+      "Geranium"
     ],
     "base_notes": [
       "Amber",
+      "Patchouli",
       "Tonka Bean",
-      "Patchouli"
+      "Suede"
     ],
     "company": "Prada"
   },
@@ -165,17 +166,17 @@
     "top_notes": [
       "Bergamot",
       "Grapefruit",
-      "Petitgrain"
+      "Lemon"
     ],
     "heart_notes": [
       "Cedarwood",
       "Violet",
-      "Amber"
+      "Ambrette"
     ],
     "base_notes": [
-      "Vetiver",
+      "Tonka Bean",
       "Musk",
-      "Tonka Bean"
+      "Woods"
     ],
     "company": "Le Labo"
   },
@@ -183,56 +184,59 @@
     "name": "Noir 29",
     "top_notes": [
       "Bergamot",
+      "Bay Leaves",
       "Fig",
-      "Bay Leaf"
+      "Tobacco"
     ],
     "heart_notes": [
       "Sandalwood",
-      "Cedar",
-      "Vetiver"
+      "Cedarwood",
+      "Violet",
+      "Leathery Notes"
     ],
     "base_notes": [
-      "Tobacco",
-      "Benzoin",
-      "Musk"
+      "Musk",
+      "Amber",
+      "Patchouli",
+      "Oakmoss"
     ],
     "company": "Le Labo"
   },
   "carlisle": {
     "name": "Carlisle",
     "top_notes": [
+      "Bergamot",
       "Apple",
-      "Nutmeg",
-      "Cinnamon"
+      "Nutmeg"
     ],
     "heart_notes": [
-      "Rose",
-      "Patchouli",
-      "Oud"
+      "Oud",
+      "Jasmine",
+      "Gaiac Wood"
     ],
     "base_notes": [
-      "Amber",
       "Vanilla",
-      "Sandalwood"
+      "Patchouli",
+      "Musk"
     ],
-    "company": "Parfums de Marly"
+    "company": "Parfum de Marly"
   },
   "pegasus": {
     "name": "Pegasus",
     "top_notes": [
       "Bergamot",
-      "Cumin",
-      "Mandarin Orange"
+      "Almond",
+      "Cardamom"
     ],
     "heart_notes": [
+      "Hedione",
       "Jasmine",
-      "Rose",
-      "Spicy Notes"
+      "Lavender"
     ],
     "base_notes": [
-      "Amber",
       "Vanilla",
-      "Benzoin",
+      "Amber",
+      "Sandalwood",
       "Woodsy Notes"
     ],
     "company": "Parfum de Marly"
@@ -241,17 +245,17 @@
     "name": "Oajan",
     "top_notes": [
       "Cinnamon",
-      "Bergamot",
-      "Honey"
+      "Honey",
+      "Bergamot"
     ],
     "heart_notes": [
-      "Oud",
-      "Resin",
-      "Sandalwood"
+      "Olibanum",
+      "Rose",
+      "Vanilla"
     ],
     "base_notes": [
-      "Vanilla",
       "Amber",
+      "Gaiac Wood",
       "Labdanum"
     ],
     "company": "Parfum de Marly"
@@ -259,23 +263,20 @@
   "versace_dylan_blue": {
     "name": "Versace Dylan Blue",
     "top_notes": [
-      "Bergamot",
+      "Calabrian Bergamot",
       "Grapefruit",
-      "Fig Leaves"
+      "Fig Leaf"
     ],
     "heart_notes": [
-      "Black Pepper",
       "Violet Leaf",
-      "Papyrus",
-      "Pomegranate",
+      "Black Pepper",
       "Ambroxan"
     ],
     "base_notes": [
+      "Papyrus",
+      "Mineral Notes",
       "Musk",
-      "Tonka Bean",
-      "Saffron",
-      "Incense",
-      "Mineral Notes"
+      "Incense"
     ],
     "company": "Versace"
   },
@@ -286,69 +287,31 @@
       "Sea Salt"
     ],
     "heart_notes": [
-      "Sage",
-      "Red Algae"
+      "Wood Sage"
     ],
     "base_notes": [
-      "Driftwood",
-      "Grapevine"
+      "Red Algae",
+      "Musk"
     ],
     "company": "Jo Malone"
-  },
-  "jean_paul_gaultier_le_male_elixir": {
-    "name": "Jean Paul Gaultier Le Male Elixir",
-    "top_notes": [
-      "Grapefruit",
-      "Cardamom",
-      "Mint"
-    ],
-    "heart_notes": [
-      "Lavender",
-      "Orange Blossom",
-      "Cinnamon"
-    ],
-    "base_notes": [
-      "Vanilla",
-      "Tonka Bean",
-      "Cedarwood"
-    ],
-    "company": "Jean Paul Gaultier"
-  },
-  "parfum_de_marly_carlisle": {
-    "name": "Parfum de Marly Carlisle",
-    "top_notes": [
-      "Bergamot",
-      "Apple",
-      "Nutmeg"
-    ],
-    "heart_notes": [
-      "Rose",
-      "Green Notes",
-      "Geranium"
-    ],
-    "base_notes": [
-      "Patchouli",
-      "Vanilla",
-      "Sandalwood"
-    ],
-    "company": "Parfum de Marly"
   },
   "dior_sauvage_elixir": {
     "name": "Dior Sauvage Elixir",
     "top_notes": [
       "Grapefruit",
-      "Orange",
-      "Bergamot"
+      "Bergamot",
+      "Citrus Notes"
     ],
     "heart_notes": [
       "Lavender",
-      "Star Anise",
-      "Nutmeg"
+      "Spicy Notes",
+      "Fruity Notes"
     ],
     "base_notes": [
-      "Sandalwood",
-      "Vanilla",
-      "Amber"
+      "Cedar",
+      "Amber",
+      "Benzoin",
+      "Patchouli"
     ],
     "company": "Dior"
   },
@@ -356,80 +319,81 @@
     "name": "Spicebomb Night Vision",
     "top_notes": [
       "Grapefruit",
-      "Bergamot",
-      "Mandarin"
+      "Green Apple",
+      "Bergamot"
     ],
     "heart_notes": [
       "Spice",
-      "Green Notes",
-      "Coriander"
+      "Rose",
+      "Black Pepper"
     ],
     "base_notes": [
-      "Amber",
-      "Tobacco",
-      "Leather"
+      "Tonka Bean",
+      "Vanilla",
+      "Woody Notes"
     ],
-    "company": "Victor & Rolf"
+    "company": "Viktor & Rolf"
   },
   "dior_homme_intense_edp": {
     "name": "Dior Homme Intense EDP",
     "top_notes": [
-      "Almond",
       "Bergamot",
-      "Sandalwood"
+      "Citrus notes"
     ],
     "heart_notes": [
       "Iris",
+      "Cocoa",
       "Amber",
-      "Cacao"
+      "Leather"
     ],
     "base_notes": [
-      "Leather",
+      "Vanilla",
+      "Patchouli",
       "Vetiver",
-      "Cedarwood"
+      "Sandalwood"
     ],
     "company": "Dior"
   },
   "angels_share": {
     "name": "Angels Share",
     "top_notes": [
-      "Cinnamon",
       "Bergamot",
-      "Pear"
+      "Cinnamon",
+      "Cognac"
     ],
     "heart_notes": [
       "Oak",
-      "Pralines",
-      "Immortelle"
+      "Honey",
+      "Maple",
+      "Praline"
     ],
     "base_notes": [
       "Vanilla",
-      "Amber",
+      "Sandalwood",
       "Cedarwood",
-      "Tonka Bean"
+      "Amber"
     ],
     "company": "Killian"
   },
-  "dolce_&_gabbana_the_one_edp": {
-    "name": "Dolce & Gabbana The One EDP",
+  "dolce_&_gabbana_the_one_eau_de_parfum": {
+    "name": "Dolce & Gabbana The One Eau de Parfum",
     "top_notes": [
       "Bergamot",
-      "Mandarin",
       "Peach",
-      "Litchi"
+      "Mandarin",
+      "Lemon"
     ],
     "heart_notes": [
       "Lily",
-      "Jasmine",
       "Plum",
+      "Jasmine",
       "Orange Blossom"
     ],
     "base_notes": [
       "Vanilla",
       "Amber",
       "Musk",
-      "Cedarwood",
-      "Resin"
+      "Cedarwood"
     ],
     "company": "Dolce & Gabbana"
   }

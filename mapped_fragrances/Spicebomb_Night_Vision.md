@@ -1,23 +1,23 @@
 # Spicebomb Night Vision
 
-**Company:** Victor & Rolf
+**Company:** Viktor & Rolf
 
 ## Notes
 
 ### Top Notes
-- #Grapefruit
-- #Bergamot
-- #Mandarin
+- #grapefruit
+- #green_apple
+- #bergamot
 
 ### Heart Notes
-- #Spice
-- #Green_Notes
-- #Coriander
+- #spice
+- #rose
+- #black_pepper
 
 ### Base Notes
-- #Amber
-- #Tobacco
-- #Leather
+- #tonka_bean
+- #vanilla
+- #woody_notes
 
 ## Parth's Review
 

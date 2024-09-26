@@ -5,19 +5,19 @@
 ## Notes
 
 ### Top Notes
-- #Bergamot
-- #Grapefruit
-- #Petitgrain
+- #bergamot
+- #grapefruit
+- #lemon
 
 ### Heart Notes
-- #Cedarwood
-- #Violet
-- #Amber
+- #cedarwood
+- #violet
+- #ambrette
 
 ### Base Notes
-- #Vetiver
-- #Musk
-- #Tonka_Bean
+- #tonka_bean
+- #musk
+- #woods
 
 ## Parth's Review
 

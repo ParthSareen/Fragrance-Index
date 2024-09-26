@@ -5,16 +5,15 @@
 ## Notes
 
 ### Top Notes
-- #Ambrette_Seed
-- #Sea_Salt
+- #ambrette_seed
+- #sea_salt
 
 ### Heart Notes
-- #Sage
-- #Red_Algae
+- #wood_sage
 
 ### Base Notes
-- #Driftwood
-- #Grapevine
+- #red_algae
+- #musk
 
 ## Parth's Review
 

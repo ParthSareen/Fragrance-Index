@@ -54,13 +54,16 @@ class FragranceIndex:
             f.write("## Notes\n\n")
             f.write("### Top Notes\n")
             for note in fragrance.top_notes:
-                f.write(f"- #{note.replace(' ', '_')}\n")
+                cleaned_note = note.strip().lower().replace(' ', '_')
+                f.write(f"- #{cleaned_note}\n")
             f.write("\n### Heart Notes\n")
             for note in fragrance.heart_notes:
-                f.write(f"- #{note.replace(' ', '_')}\n")
+                cleaned_note = note.strip().lower().replace(' ', '_')
+                f.write(f"- #{cleaned_note}\n")
             f.write("\n### Base Notes\n")
             for note in fragrance.base_notes:
-                f.write(f"- #{note.replace(' ', '_')}\n")
+                cleaned_note = note.strip().lower().replace(' ', '_')
+                f.write(f"- #{cleaned_note}\n")
             f.write("\n## Parth's Review\n\n")
             f.write("<!-- Add your review here -->\n")
 

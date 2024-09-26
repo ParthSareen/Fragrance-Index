@@ -5,21 +5,22 @@
 ## Notes
 
 ### Top Notes
-- #Bergamot
-- #Neroli
-- #Lemon
-- #Rosemary
+- #bergamot
+- #orange
+- #lemon
+- #neroli
 
 ### Heart Notes
-- #Jasmine
-- #Cedar
-- #Geranium
+- #jasmine
+- #rose
+- #cedar
+- #clary_sage
 
 ### Base Notes
-- #Tonka_Bean
-- #Amber
-- #Musk
-- #Oakmoss
+- #amber
+- #musk
+- #patchouli
+- #tonka_bean
 
 ## Parth's Review
 

@@ -5,19 +5,20 @@
 ## Notes
 
 ### Top Notes
-- #Grapefruit
-- #Orange
-- #Bergamot
+- #grapefruit
+- #bergamot
+- #citrus_notes
 
 ### Heart Notes
-- #Lavender
-- #Star_Anise
-- #Nutmeg
+- #lavender
+- #spicy_notes
+- #fruity_notes
 
 ### Base Notes
-- #Sandalwood
-- #Vanilla
-- #Amber
+- #cedar
+- #amber
+- #benzoin
+- #patchouli
 
 ## Parth's Review
 

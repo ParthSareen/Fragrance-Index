@@ -1,27 +1,26 @@
-# Percival
+# Dolce & Gabbana The One Eau de Parfum
 
-**Company:** Parfum de Marly
+**Company:** Dolce & Gabbana
 
 ## Notes
 
 ### Top Notes
 - #bergamot
-- #grapefruit
-- #lemon
+- #peach
 - #mandarin
-- #cardamom
+- #lemon
 
 ### Heart Notes
+- #lily
+- #plum
 - #jasmine
-- #rose
-- #coriander
-- #geranium
+- #orange_blossom
 
 ### Base Notes
+- #vanilla
 - #amber
 - #musk
-- #patchouli
-- #woodsy_notes
+- #cedarwood
 
 ## Parth's Review
 

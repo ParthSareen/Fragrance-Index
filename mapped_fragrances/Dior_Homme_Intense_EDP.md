@@ -5,19 +5,20 @@
 ## Notes
 
 ### Top Notes
-- #Almond
-- #Bergamot
-- #Sandalwood
+- #bergamot
+- #citrus_notes
 
 ### Heart Notes
-- #Iris
-- #Amber
-- #Cacao
+- #iris
+- #cocoa
+- #amber
+- #leather
 
 ### Base Notes
-- #Leather
-- #Vetiver
-- #Cedarwood
+- #vanilla
+- #patchouli
+- #vetiver
+- #sandalwood
 
 ## Parth's Review
 

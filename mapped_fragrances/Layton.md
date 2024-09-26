@@ -5,21 +5,19 @@
 ## Notes
 
 ### Top Notes
-- #Apple
-- #Bergamot
-- #Lavender
+- #apple
+- #bergamot
+- #lavender
 
 ### Heart Notes
-- #Geranium
-- #Jasmine
-- #Violet
+- #jasmine
+- #geranium
+- #violet
 
 ### Base Notes
-- #Vanilla
-- #Cedarwood
-- #Cardamom
-- #Pepper
-- #Patchouli
+- #vanilla
+- #sandalwood
+- #amber
 
 ## Parth's Review
 

@@ -5,19 +5,19 @@
 ## Notes
 
 ### Top Notes
-- #Mint
-- #Green_Apple
-- #Lemon
+- #mint
+- #lemon
+- #apple
 
 ### Heart Notes
-- #Tonka_Bean
-- #Ambroxan
-- #Geranium
+- #tonka_bean
+- #geranium
+- #amber
 
 ### Base Notes
-- #Vanilla
-- #Cedarwood
-- #Oakmoss
+- #cedarwood
+- #oakmoss
+- #vanilla
 
 ## Parth's Review
 

@@ -5,19 +5,21 @@
 ## Notes
 
 ### Top Notes
-- #Bergamot
-- #Pink_Pepper
-- #Bitter_Orange
+- #bergamot
+- #grapefruit
+- #orange
+- #mandarin
 
 ### Heart Notes
-- #Lavender
-- #Cypress
-- #Basil
+- #lavender
+- #sage
+- #geranium
 
 ### Base Notes
-- #Amber
-- #Tonka_Bean
-- #Patchouli
+- #amber
+- #patchouli
+- #tonka_bean
+- #suede
 
 ## Parth's Review
 
