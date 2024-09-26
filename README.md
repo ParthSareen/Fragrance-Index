@@ -11,6 +11,32 @@ Fragrance-Index is a Python-based tool for managing and organizing fragrance inf
 - Process bulk fragrance lists from a file
 - Utilize local caching to reduce API calls
 
+## Using the Script
+
+To use the script from the command line:
+
+1. Ensure you have a text file with a list of fragrances, one per line.
+
+2. Run the script with the path to your fragrances file:
+   ```
+   python src/fragrance_index/main.py --path path/to/your/fragrances.txt
+   ```
+
+   Replace `path/to/your/fragrances.txt` with the actual path to your file.
+
+3. The script will process each fragrance in the file:
+   - If the fragrance is already in the local store, it will use the cached data.
+   - If not, it will fetch the fragrance notes from the API and save them to the local store.
+   - For each fragrance, it will create a Markdown file in the `mapped_fragrances` directory.
+
+4. After processing, you'll find:
+   - Updated `fragrance_store.json` with any new fragrances
+   - New or updated Markdown files in the `mapped_fragrances` directory
+
+This method is efficient for processing multiple fragrances at once, especially if you have a large list of fragrances to index.
+
+
+
 ## Setup
 
 1. Clone this repository:
