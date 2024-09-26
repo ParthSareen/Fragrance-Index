@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "eb3e315ffee07671",
+    "type": "split",
+    "children": [
+      {
+        "id": "661e928e66f59bbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97d723865c4f0670",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3ebd02f43f92945",
+    "type": "split",
+    "children": [
+      {
+        "id": "2935c18059da9e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a10d269bcbd19381",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "006261c6878eab38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Jasmine",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6163d9c306f6789",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc65eb5c1e23f89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "23cf5ad76a4b3920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e00f66db9a1a9bf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79ae8cc5913dccfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35ba30699226f921",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "423c7fc06613c622",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "97d723865c4f0670",
+  "lastOpenFiles": [
+    "Versace_Dylan_Blue.md",
+    "Dolce_&_Gabbana_The_One_EDP.md",
+    "Angels_Share.md",
+    "Dior_Homme_Intense_EDP.md",
+    "Spicebomb_Night_Vision.md",
+    "Dior_Sauvage_Elixir.md",
+    "Parfum_de_Marly_Carlisle.md",
+    "Jean_Paul_Gaultier_Le_Male_Elixir.md",
+    "Pegasus.md",
+    "Wood_Sage_&_Sea_Salt.md",
+    "Oajan.md",
+    "Carlisle.md",
+    "Noir_29.md",
+    "Bergamote_22.md",
+    "Prada_Luna_Rossa_Ocean.md",
+    "Jazz_Club.md",
+    "Le_Male_Elixir.md",
+    "Another_13.md",
+    "Versace_Eros.md",
+    "Parfum_de_Marly_Percival.md",
+    "Percival.md",
+    "Layton.md",
+    "Versace_Pour_Homme.md"
+  ]
+}
