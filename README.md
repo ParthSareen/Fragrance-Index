@@ -1,6 +1,12 @@
 # Fragrance-Index
+
+<p align="center">
+  <img src="mascot.webp" alt="Mascot" width="200" height="200">
+</p>
+
 ![Image Graph](image.png)
 Fragrance-Index is a Python-based tool for managing and organizing fragrance information. It allows users to process fragrance images, retrieve note information, and store the data in both a local JSON store and as individual Markdown files compatible with Obsidian.
+
 
 ## Features
 
