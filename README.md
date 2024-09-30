@@ -81,10 +81,7 @@ This method is efficient for processing multiple fragrances at once, especially 
 - Individual Markdown files for each fragrance are created in the `mapped_fragrances` directory
 - These Markdown files can be used with Obsidian for linking and graph visualization
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+## TODO
+-[] structure jsons better 
+-[] mongodb
+-[] build simple graph connection UI (reactflow?)
